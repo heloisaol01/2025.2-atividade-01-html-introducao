@@ -35,10 +35,10 @@ Criar uma página pessoal em HTML utilizando a estrutura básica e as principais
 - [x] Adicionar tag `<p>` com o texto "GitHub: " seguido de um `<span>` ou link para seu perfil
 
 ### 5. Seção de Estudos Atuais
-- [ ] Criar uma `<div>` com identificação para estudos atuais
-- [ ] Adicionar tag `<h3>` com o título "O que estou estudando atualmente"
-- [ ] Adicionar tags `<p>` descrevendo o curso e disciplinas que está cursando
-- [ ] Opcional: Usar tags `<h4>`, `<h5>` ou `<h6>` para subtítulos de diferentes disciplinas
+- [x] Criar uma `<div>` com identificação para estudos atuais
+- [x] Adicionar tag `<h3>` com o título "O que estou estudando atualmente"
+- [x] Adicionar tags `<p>` descrevendo o curso e disciplinas que está cursando
+- [x] Opcional: Usar tags `<h4>`, `<h5>` ou `<h6>` para subtítulos de diferentes disciplinas
 
 ### 6. Seção de Tecnologias Conhecidas
 - [ ] Criar uma `<div>` com identificação para tecnologias conhecidas
