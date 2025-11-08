@@ -41,10 +41,10 @@ Criar uma página pessoal em HTML utilizando a estrutura básica e as principais
 - [x] Opcional: Usar tags `<h4>`, `<h5>` ou `<h6>` para subtítulos de diferentes disciplinas
 
 ### 6. Seção de Tecnologias Conhecidas
-- [ ] Criar uma `<div>` com identificação para tecnologias conhecidas
-- [ ] Adicionar tag `<h3>` com o título "Tecnologias que já conheço"
-- [ ] Adicionar tags `<p>` listando as tecnologias de desenvolvimento de aplicativos
-- [ ] Opcional: Usar `<span>` para destacar nomes de tecnologias específicas
+- [x] Criar uma `<div>` com identificação para tecnologias conhecidas
+- [x] Adicionar tag `<h3>` com o título "Tecnologias que já conheço"
+- [x] Adicionar tags `<p>` listando as tecnologias de desenvolvimento de aplicativos
+- [x] Opcional: Usar `<span>` para destacar nomes de tecnologias específicas
 
 ### 7. Revisão Final
 - [ ] Verificar se todas as tags foram fechadas corretamente
