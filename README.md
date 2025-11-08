@@ -47,10 +47,10 @@ Criar uma página pessoal em HTML utilizando a estrutura básica e as principais
 - [x] Opcional: Usar `<span>` para destacar nomes de tecnologias específicas
 
 ### 7. Revisão Final
-- [ ] Verificar se todas as tags foram fechadas corretamente
-- [ ] Verificar se a indentação está organizada e legível
-- [ ] Abrir o arquivo `index.html` no navegador para visualizar o resultado
-- [ ] Validar se todo o conteúdo está sendo exibido corretamente
+- [x] Verificar se todas as tags foram fechadas corretamente
+- [x] Verificar se a indentação está organizada e legível
+- [x] Abrir o arquivo `index.html` no navegador para visualizar o resultado
+- [x] Validar se todo o conteúdo está sendo exibido corretamente
 
 ## Exemplo de Tags Utilizadas
 - **Estrutura**: `<!DOCTYPE>`, `<html>`, `<head>`, `<body>`
