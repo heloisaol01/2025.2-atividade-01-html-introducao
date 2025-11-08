@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-size: 16px;
+    color: #333;
+    text-align: left;
+}
+h1 {
+    font-size: 36px;
+    color: #1a1a1a;
+    text-align: center;
+}
+h2 {
+    font-size: 28px;
+    color: #2c3e50;
+    text-align: center;
+}
+h3 {
+    font-size: 24px;
+    color: #34495e;
+    text-align: left;
+}
+h4 {
+    font-size: 20px;
+    color: #555;
+}
+h5 {
+    font-size: 18px;
+    color: #666;
+}
+h6 {
+    font-size: 16px;
+    color: #777;
+}
