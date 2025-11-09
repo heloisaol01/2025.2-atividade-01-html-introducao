@@ -47,3 +47,18 @@ span {
     font-size: 14px;
     color: #0066cc;
 }
+.destaque {
+    font-size: 16px;
+    color: #e74c3c;
+}
+.secao {
+    text-align: center;
+}
+.link-social {
+    font-size: 15px;
+    color: #16a085
+}
+.tecnologia {
+    font-size: 14px;
+    color: #8e44ad;
+}
