@@ -1,31 +1,40 @@
 * {
-    margin: 0;
+    margin: 5px;
     padding: 0;
     box-sizing: border-box;
 }
 body {
+    font-family: "Golos Text", sans-serif;
     font-size: 16px;
     color: #333;
     text-align: left;
 }
 h1 {
-    font-size: 36px;
-    color: #1a1a1a;
+    font-family: "Golos Text", sans-serif;
+    font-size: 34px;
+    font-weight: bold;
+    color: #252069;
     text-align: center;
 }
 h2 {
-    font-size: 28px;
-    color: #2c3e50;
+    font-family: "Golos Text", sans-serif;
+    font-size: 24px;
+    font-weight: lighter;
+    color: #252069;
     text-align: center;
 }
 h3 {
+    font-family: "Golos Text", sans-serif;
+    font-weight: bold;
     font-size: 24px;
-    color: #34495e;
-    text-align: left;
+    color: #252069;
+    text-align: center middle;
 }
 h4 {
+    font-family: "Golos Text", sans-serif;
+    font-weight: bold;
     font-size: 20px;
-    color: #555;
+    color: #534cb1;
 }
 h5 {
     font-size: 18px;
@@ -37,7 +46,7 @@ h6 {
 }
 p {
     font-size: 14px;
-    color: #444;
+    color: black;
     text-align: justify;
 }
 div {
@@ -49,10 +58,12 @@ span {
 }
 .destaque {
     font-size: 16px;
-    color: #e74c3c;
+    color: black;
 }
 .secao {
-    text-align: center;
+    text-align: left;
+    background-color:#d4d4d4;
+    color: black
 }
 .link-social {
     font-size: 15px;
@@ -61,4 +72,21 @@ span {
 .tecnologia {
     font-size: 14px;
     color: #8e44ad;
+}
+img {
+    width: 50px;
+    height: 50px;
+    vertical-align: middle;
+}
+.container {
+  display: inline-block;
+  position: relative;
+  text-align: center;
+
+}
+.container p {
+  position: absolute;
+  top: 145px;
+  right: 20px;
+  font-size: 40px;
 }
